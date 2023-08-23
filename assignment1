@@ -74,4 +74,6 @@ plt.grid()
 plt.plot(t_array, xverlet_array, label='x verelt (m)')
 plt.plot(t_array, vverlet_array, label='v verlet (m/s)')
 plt.legend()
+
+print("test")
 plt.show()
